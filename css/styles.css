@@ -17,7 +17,6 @@ h4{
   text-align: center;
 }
 
-
 h5{
   text-align: center;
   font-size: 30px;
@@ -27,4 +26,35 @@ p{
  text-align: center;
  font-style: italic;
  font-size: 35px;
+}
+
+.home{
+  background-image: url("../images/port.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.plant{
+  background-image: url("../images/plant.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+
+}
+.book{
+  background-image: url("../images/book.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.skills{
+  background-image: url("../images/skills.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.back1{
+  background-image: url("../images/back1.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.javier{
+  font-family: sans-serif;
+  text-align:inherit;
 }
